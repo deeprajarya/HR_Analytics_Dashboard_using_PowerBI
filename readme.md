@@ -35,7 +35,7 @@ This project utilizes Power BI to analyze to analyse the human resouse data (HR)
 
   
  
-*  **Feedback** 
+##  **Feedback** 
 
 Author : [Deepraj Arya]
 
