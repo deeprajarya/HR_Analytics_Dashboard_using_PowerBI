@@ -1,6 +1,6 @@
 # HR Data Analysis-Dashboard-Using-PowerBI
 
-This project utilizes Power BI to analyze to analyse the human resouse data (HR). The goal is to get insights/patterns and identify areas for improvement for HR.
+This project utilizes Power BI to analyse the human resouse data (HR). The goal is to get insights/patterns and identify areas for improvement for HR.
 
 <!--
 # Table Of Contents
